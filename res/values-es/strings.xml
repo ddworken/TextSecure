@@ -159,7 +159,7 @@
   <string name="MmsDownloader_no_connectivity_available_for_mms_download_try_again_later">No hay conexiones disponibles para descargar MMS, inténtalo de nuevo más tarde...</string>
   <string name="MmsDownloader_error_storing_mms">¡Error guardando MMS!</string>
   <string name="MmsDownloader_error_connecting_to_mms_provider">Error conectando al proveedor MMS...</string>
-  <string name="MmsDownloader_error_reading_mms_settings">Error leyendo las configuraciones MMS (sistema de mensajería multimedia) del provedor inalámbrico...</string>
+  <string name="MmsDownloader_error_reading_mms_settings">Error leyendo las configuraciones MMS (sistema de mensajería multimedia) del proveedor inalámbrico...</string>
   <!--NotificationMmsMessageRecord-->
   <string name="NotificationMmsMessageRecord_multimedia_message">Mensaje multimedia</string>
   <!--MessageRecord-->
@@ -208,7 +208,7 @@
   <string name="RegistrationProgressActivity_connecting">Conectando</string>
   <string name="RegistrationProgressActivity_connecting_for_verification">Conectando para verificación...</string>
   <string name="RegistrationProgressActivity_network_error">¡Error de red!</string>
-  <string name="RegistrationProgressActivity_unable_to_connect">No se pudo conectar. Por favor compruebe su conexión a la red e inténtelo de nuevo.</string>
+  <string name="RegistrationProgressActivity_unable_to_connect">No se puede conectar. Por favor compruebe su conexión a la red e inténtelo de nuevo.</string>
   <string name="RegistrationProgressActivity_verification_failed">¡Fallo de verificación!</string>
   <string name="RegistrationProgressActivity_the_verification_code_you_submitted_is_incorrect">El código de verificación que envió no es correcto. Por favor inténtelo de nuevo.</string>
   <string name="RegistrationProgressActivity_too_many_attempts">Demasiados intentos</string>
@@ -220,7 +220,7 @@
   <string name="RegistrationProgressActivity_too_many_requests">¡Demasiadas peticiones!</string>
   <string name="RegistrationProgressActivity_youve_already_requested_a_voice_call">Usted ya ha solicitado recientemente una llamada de voz. Puede pedir otra en 20 minutos.</string>
   <string name="RegistrationProgressActivity_verifying_voice_code">Verificando código de voz...</string>
-  <string name="RegistrationProgressActivity_registration_conflict">Confilicto al registrarse</string>
+  <string name="RegistrationProgressActivity_registration_conflict">Conflicto al registrarse</string>
   <string name="RegistrationProgressActivity_this_number_is_already_registered_on_a_different">Este número ya está registrado en un servidor de TextSecure diferente (¿CyanogenMod?). Debe darse de baja allí antes de registrarse aquí.</string>
   <!--RegistrationService-->
   <string name="RegistrationService_registration_complete">Procedimiento de registro completado</string>
@@ -375,7 +375,7 @@
   <string name="log_submit_activity__confirmation">Este registro de actividades (\'log\') será publicado en línea para que los contribuidores de TextSecure lo vean. Tenga la libertad de examinar o editar los registros de actividades antes de pulsar enviar.</string>
   <string name="log_submit_activity__button_cancel">No enviar</string>
   <string name="log_submit_activity__button_ok">Enviar</string>
-  <string name="log_submit_activity__log_fetch_failed">No pudieron tomarse los registros de actividad (logs) de su dispositivo. Aún puede usar ADB (Android debug bridge) para obtener los registros de depuración en su lugar.</string>
+  <string name="log_submit_activity__log_fetch_failed">No pudieron tomar los registros de actividad (logs) de su dispositivo. Aún puede usar ADB (Android debug bridge) para obtener los registros de depuración en su lugar.</string>
   <string name="log_submit_activity__log_submit_success_title">¡Completado!</string>
   <string name="log_submit_activity__log_got_it">Lo tengo</string>
   <string name="log_submit_activity__your_pastebin_url">Por favor copie esta URL y añádala a su informe (mantenga pulsado para llevarla al portapapeles):\n\n<b>%1$s</b></string>
